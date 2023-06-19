@@ -31,6 +31,7 @@ top: 0px;
 /*NAV_MENU*/
 .menu{
     display: flex;
+    align-items: center;
     gap:10px;
     font-size: 16px;
     font-weight: 500;
@@ -48,7 +49,7 @@ top: 0px;
 .btn{
 padding: 15px 32px;
 background-color: black;
-font-size: 16px;
+font-size: 12px;
 text-align: center;
 border-radius: 12px;
 
@@ -165,6 +166,7 @@ font-style: normal;
 font-weight: 600;
 font-size: 14px;
 line-height: 20px;
+padding: 20px;
 /* identical to box height, or 143% */
 
 text-align: center;
