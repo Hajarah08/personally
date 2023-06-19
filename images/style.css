@@ -160,19 +160,20 @@ line-height: 130%;
 color: #1D2939;
 
 }
-.text{
+.Text{
     font-family: 'Inter';
 font-style: normal;
 font-weight: 600;
 font-size: 14px;
 line-height: 20px;
-padding: 20px;
+padding: 10px;
 /* identical to box height, or 143% */
 
 text-align: center;
 
 
 color: #1D2939;
+border: none;
 }
 .article-card{
    
